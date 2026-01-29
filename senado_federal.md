@@ -7,7 +7,8 @@ Este projeto apresenta uma análise detalhada dos dados do Senado Federal, focad
 ---
 
 ## 📸 Visual do Projeto
-<img width="1365" height="540" alt="visual_senado" src="https://github.com/user-attachments/assets/LINK_DA_SUA_IMAGEM" />
+<img width="911" height="487" alt="image" src="https://github.com/user-attachments/assets/530a9ab2-cabd-46d8-9924-90ce5d275ddc" />
+
 
 ---
 
