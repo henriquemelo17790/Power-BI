@@ -1,39 +1,25 @@
-## 📸 Visual do Projeto
 # 🏛️ Análise de Dados - Senado Federal
 
-Este projeto apresenta uma análise detalhada dos dados do Senado Federal, focada em transparência e métricas parlamentares.
+Este projeto apresenta uma análise detalhada dos dados do Senado Federal, focada em transparência, perfil biográfico e métricas do mandato dos senadores.
 
-👉 [**CLIQUE AQUI PARA ABRIR O DASHBOARD DO SENADO**](https://app.powerbi.com/view?r=eyJrIjoiNTA1M2ViNjYtNGExNC00OGEwLThhNmItZmQ1NGFhMWVkNjE3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+👉 [**CLIQUE AQUI PARA ABRIR O DASHBOARD INTERATIVO**](COLOQUE_O_LINK_DO_DASHBOARD_DO_SENADO_AQUI)
 
 ---
 
 ## 📸 Visual do Projeto
-<img width="1364" height="530" alt="image" src="https://github.com/user-attachments/assets/268c7dc8-59c1-4b1d-8480-303906408294" />
-
-
----
-
-## 🛠️ Tecnologias Utilizadas
-* **Microsoft Fabric**: Ingestão e tratamento de dados.
-* **Power BI**: Visualização e inteligência de dados.
-
----
-🚀 *Este projeto faz parte do meu portfólio de Business Intelligence.*
+<img width="1365" height="540" alt="visual_senado" src="https://github.com/user-attachments/assets/LINK_DA_SUA_IMAGEM" />
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-* **Microsoft Fabric**: Ingestão e tratamento de dados.
-* **Power BI**: Visualização e inteligência de dados.
-
----
-🚀 *Este projeto faz parte do meu portfólio de Business Intelligence.*
+* **Microsoft Fabric**: Ingestão e tratamento dos dados.
+* **Power BI**: Visualização, modelagem e inteligência de dados.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-* **Microsoft Fabric**: Ingestão e tratamento de dados.
-* **Power BI**: Visualização e inteligência de dados.
+## 📂 Fonte dos Dados
+As informações utilizadas nesta análise foram extraídas diretamente do portal oficial:
+* **Senado Federal**: [Consulta de Senadores](https://www25.senado.leg.br/web/senadores)
 
 ---
 🚀 *Este projeto faz parte do meu portfólio de Business Intelligence.*
