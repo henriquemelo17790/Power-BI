@@ -7,7 +7,7 @@ Este projeto apresenta uma análise detalhada dos dados da Câmara dos Deputados
 ---
 
 ## 📸 Visual do Projeto
-![Dashboard da Câmara]<img width="1365" height="540" alt="imagem_camara" src="https://github.com/user-attachments/assets/b46d22f3-1151-42aa-9714-f65e71ec6294" />
+<img width="1365" height="540" alt="imagem_camara" src="https://github.com/user-attachments/assets/b46d22f3-1151-42aa-9714-f65e71ec6294" />
 
 
 ---
