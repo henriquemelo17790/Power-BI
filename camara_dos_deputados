@@ -1,23 +1,10 @@
 # 🏛️ Análise de Dados - Câmara dos Deputados
 
-Este projeto apresenta uma análise detalhada dos dados da Câmara dos Deputados, focada em transparência e métricas parlamentares.
-
-## 📊 Dashboard Interativo
-O relatório permite explorar gastos, proposições e outras métricas de forma visual.
-
-👉 [**Clique aqui para visualizar o Dashboard da Câmara**](https://app.powerbi.com/view?r=eyJrIjoiMjczNTdhMDYtNGVmNC00NmFkLWIwNWItMTJhM2Q2ZWM2MjJkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+(https://app.powerbi.com/view?r=eyJrIjoiMjczNTdhMDYtNGVmNC00NmFkLWIwNWItMTJhM2Q2ZWM2MjJkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ---
 
-## 📸 Prévia do Projeto
-!
+![Dashboard da Câmara](imagem_camara.png)
 
 ---
-
-## 🛠️ Tecnologias Utilizadas
-Para a construção deste projeto, utilizei:
-* **Microsoft Fabric**: Para a ingestão e tratamento dos dados.
-* **Power BI**: Para a criação das visualizações e inteligência de dados.
-
----
-🚀 *Este projeto faz parte do meu portfólio de Business Intelligence.*
+🚀 *Projeto desenvolvido com Microsoft Fabric e Power BI.*
