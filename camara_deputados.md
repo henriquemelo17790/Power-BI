@@ -15,6 +15,9 @@ Este projeto apresenta uma análise detalhada dos dados da Câmara dos Deputados
 ## 🛠️ Tecnologias Utilizadas
 * **Microsoft Fabric**: Ingestão e tratamento de dados.
 * **Power BI**: Visualização e inteligência de dados.
+---
 
+## 📂 Origem dos Dados
+Os dados foram obtidos através do portal oficial da **[Câmara dos Deputados](https://www.camara.leg.br/deputados/quem-sao)**, garantindo a fidedignidade das informações parlamentares apresentadas.
 ---
 🚀 *Este projeto faz parte do meu portfólio de Business Intelligence.*
