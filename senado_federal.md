@@ -1,20 +1,3 @@
-# 🏛️ Análise de Dados - Senado Federal
-
-Este projeto apresenta uma análise detalhada dos dados do Senado Federal, focada em transparência e métricas parlamentares.
-
-👉 [**CLIQUE AQUI PARA ABRIR O DASHBOARD DO SENADO**](https://app.powerbi.com/view?r=eyJrIjoiNTA1M2ViNjYtNGExNC00OGEwLThhNmItZmQ1NGFhMWVkNjE3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
-
----
-
-## 📸 Visual do Projeto
-# 🏛️ Análise de Dados - Senado Federal
-
-Este projeto apresenta uma análise detalhada dos dados do Senado Federal, focada em transparência e métricas parlamentares.
-
-👉 [**CLIQUE AQUI PARA ABRIR O DASHBOARD DO SENADO**](https://app.powerbi.com/view?r=eyJrIjoiNTA1M2ViNjYtNGExNC00OGEwLThhNmItZmQ1NGFhMWVkNjE3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
-
----
-
 ## 📸 Visual do Projeto
 # 🏛️ Análise de Dados - Senado Federal
 
