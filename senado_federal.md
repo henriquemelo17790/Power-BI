@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma análise detalhada dos dados do Senado Federal, focada em transparência, perfil biográfico e métricas do mandato dos senadores.
 
-👉 [**CLIQUE AQUI PARA ABRIR O DASHBOARD INTERATIVO**]([COLOQUE_O_LINK_DO_DASHBOARD_DO_SENADO_AQUI](https://app.powerbi.com/view?r=eyJrIjoiNTA1M2ViNjYtNGExNC00OGEwLThhNmItZmQ1NGFhMWVkNjE3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))
+👉 [**CLIQUE AQUI PARA ABRIR O DASHBOARD INTERATIVO**](https://app.powerbi.com/view?r=eyJrIjoiNTA1M2ViNjYtNGExNC00OGEwLThhNmItZmQ1NGFhMWVkNjE3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ---
 
