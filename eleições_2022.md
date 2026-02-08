@@ -1,6 +1,7 @@
 # 🗳️ Análise das Eleições Presidenciais 2022 (Brasil)
 
-<img width="908" height="484" alt="image" src="https://github.com/user-attachments/assets/f47fdc2c-6bcf-4f62-bf86-114a81ca40e1" />
+<img width="879" height="498" alt="image" src="https://github.com/user-attachments/assets/dd742551-c477-499c-97ea-4787309b6780" />
+
 
 Este projeto apresenta um dashboard interativo desenvolvido no **Power BI** para visualização e análise detalhada dos resultados das Eleições Presidenciais de 2022. O foco é transformar dados brutos em insights geográficos e estatísticos sobre o cenário eleitoral brasileiro.
 
