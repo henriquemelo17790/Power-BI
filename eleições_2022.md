@@ -8,7 +8,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no **Power BI** para
 ## 📊 Dashboard Interativo
 
 Você pode acessar o painel online através do link abaixo:
-👉 [**Clique aqui para visualizar o Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDRhZGFiYWQtZWY4Yy00NTIzLWEwNzAtZjE3Yjk0YzBlZGY4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+👉 [**Clique aqui para visualizar o Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTc5MTE2ODYtYTE4ZS00ZDc5LTg5NDAtNDMyZjVhYTg1ZWFhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ---
 
